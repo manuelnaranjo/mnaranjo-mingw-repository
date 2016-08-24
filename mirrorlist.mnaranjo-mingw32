@@ -1,0 +1,7 @@
+##
+## 32-bit mnaranjo repository mirrorlist
+##
+
+## Primary
+Server = https://media.githubusercontent.com/media/manuelnaranjo/mnaranjo-mingw-repository/master/i686
+SigLevel = Optional TrustAll
